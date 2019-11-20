@@ -1,3 +1,13 @@
-Medusa
+Team Medusa
+
+Julian Debattista
 
 Julian Debattista, a 22 year old with exceptional problem solving skills and is keen on computer logic. Likes to work in teams and is determined to deliver work on time. Computer Skills: MATLAB, R, C, LaTeX and Git. 
+
+Luke Bjorn Scerri
+
+Luke is 18 years old and has most experience in SQL databases and webserver backends.
+Technical skills: Php, GO, SQL, HTML, bash and others.
+Luke also makes use of git and jenkins.
+Soft skills: Honest
+
