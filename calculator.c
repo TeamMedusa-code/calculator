@@ -3,7 +3,7 @@
 
 int* inputs();
 
-int main(void)
+int main(void){
 	for (;;){
 		printf("~~ Medusa calculator ~~\n");
 		printf("1. Addition\n");
