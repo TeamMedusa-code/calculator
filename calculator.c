@@ -41,7 +41,7 @@ int main(void){
 		}
 	}
 	return 0;
-}
+
 
 int* inputs(){
 	int* numbers = malloc(sizeof(int)*2);
