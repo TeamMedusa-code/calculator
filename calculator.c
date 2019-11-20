@@ -3,7 +3,7 @@
 
 int* inputs();
 
-int main(void){
+int main(void)
 	for (;;){
 		printf("~~ Medusa calculator ~~\n");
 		printf("1. Addition\n");
@@ -41,7 +41,7 @@ int main(void){
 		}
 	}
 	return 0;
-
+}
 
 int* inputs(){
 	int* numbers = malloc(sizeof(int)*2);
