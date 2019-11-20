@@ -19,9 +19,8 @@ int main(void){
 			return 0;
 		}
             
-        if (choice == 5);
-            return 0;
-    
+		if (choice == 5);
+				return 0;
 
 		int* values = inputs();
 		switch (choice){
