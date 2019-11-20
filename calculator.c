@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int* inputs();
 
 int main(void){
 	for (;;){
@@ -22,6 +23,7 @@ int main(void){
 				return 0;
 
 		int* values = inputs();
+        switch(choice){
 			case 1:
 				printf("Answer: %d\n", values[0]+values[1]);
 				break;
