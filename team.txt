@@ -1,0 +1,8 @@
+Team Medusa
+
+Luke Bjorn Scerri
+
+Luke is 18 years old and has most experience in SQL databases and webserver backends.
+Technical skills: Php, GO, SQL, HTML, bash and others.
+Luke also makes use of git and jenkins.
+Soft skills: Honest
